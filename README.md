@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a  target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
+  <a  target="_blank" rel="noreferrer"><img src="https://github.com/rohanprao/rohanprao/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png?raw=true" alt="my banner"></a>
 </p>
 
 <h3 align="center">
