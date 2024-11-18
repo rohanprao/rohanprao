@@ -61,8 +61,8 @@ I am currently pursuing my Bachelor's in Artificial Intelligence and Data Scienc
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohanprao)](https://github.com/rohanprao)
+[![rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanprao)](https://github.com/rohanprao)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
