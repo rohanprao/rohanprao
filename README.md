@@ -67,7 +67,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ROHAN RAO)](https://github.com/ROHAN RAO)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohanprao)](https://github.com/rohanprao)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
