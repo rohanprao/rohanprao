@@ -20,49 +20,43 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ 
 
-## 🔭 I'm currently working on
+### 🔥 Currently Working On:
+- Developing an **AI assistant** for store owners to update product information using voice communication.
+- Exploring **Advanced Machine Learning** techniques, such as **Deep Learning** and **Reinforcement Learning**.
+- Implementing **Data Science** pipelines with tools like **Pandas**, **NumPy**, and **Matplotlib**.
+- Building **AI fairness** and **ethical AI** systems with frameworks like IBM AI Fairness 360 and CeRAI.
+- Researching the optimization of **recursive algorithms** and **graph-based algorithms**.
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+<h2 style="font-family: 'Arial', sans-serif; font-size: 24px; color: #4CAF50;"> 🚀 Expanding My Knowledge In:</h2>
+<ul>
+  <li>Advanced machine learning techniques, including <strong>Deep Learning</strong> and <strong>Natural Language Processing</strong>.</li>
+  <li><strong>AI fairness and ethical AI practices</strong> through workshops like IBM AI Fairness 360 and CeRAI Responsible AI.</li>
+  <li>Optimization of <strong>recursive algorithms</strong> and <strong>topological sorting</strong> for algorithm efficiency.</li>
+  <li><strong>First-Order Logic</strong> concepts, including Unification and Subsumption Lattice, for logical reasoning in AI.</li>
+  <li><strong>Efficient research methodologies</strong> tailored to topics relevant to India.</li>
+</ul>
 
-## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+## Languages & Frameworks
 
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)](https://www.python.org)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)](https://www.mongodb.com)
+[![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=MySQL&color=4479A1)](https://www.mysql.com)
+[![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tableau](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&color=E97627)](https://www.tableau.com)
+[![Power BI](https://img.shields.io/badge/Tools-Power%20BI-informational?style=flat&logo=Power-BI&color=F2C811)](https://powerbi.microsoft.com)
 
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
+- [![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=TensorFlow&color=FF6F00)](https://www.tensorflow.org)
+- [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&color=EE4C2C)](https://pytorch.org)
+- [![Scikit-learn](https://img.shields.io/badge/Framework-Scikit--learn-informational?style=flat&logo=scikit-learn&color=F7931E)](https://scikit-learn.org)
+- [![Keras](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=Keras&color=D00000)](https://keras.io)
+- [![Hugging Face](https://img.shields.io/badge/Framework-Hugging%20Face-informational?style=flat&logo=huggingface&color=FF3C00)](https://huggingface.com)
 
 
 ## 📈 GitHub Stats 
