@@ -15,7 +15,7 @@ I am currently pursuing my Bachelor's in Artificial Intelligence and Data Scienc
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/rohan-rao-5403a9240">
-  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rohan-rao | LinkedIn" width="21px"/>
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rohan-p.rao | LinkedIn" width="21px"/>
 </a>
 
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
