@@ -62,7 +62,6 @@ I am currently pursuing my Bachelor's in Artificial Intelligence and Data Scienc
 ## 📈 GitHub Stats 
 
 [![rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanprao)](https://github.com/rohanprao)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanprao&layout=compact)](https://github.com/rohanprao)
 
 
